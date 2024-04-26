@@ -1,0 +1,14 @@
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\bin\Debug\net8.0\SarmalSezgiselV2.exe
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\bin\Debug\net8.0\SarmalSezgiselV2.deps.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\bin\Debug\net8.0\SarmalSezgiselV2.runtimeconfig.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\bin\Debug\net8.0\SarmalSezgiselV2.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\bin\Debug\net8.0\SarmalSezgiselV2.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\obj\Debug\net8.0\SarmalSezgiselV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\obj\Debug\net8.0\SarmalSezgiselV2.AssemblyInfoInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\obj\Debug\net8.0\SarmalSezgiselV2.AssemblyInfo.cs
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\obj\Debug\net8.0\SarmalSezgiselV2.csproj.CoreCompileInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\obj\Debug\net8.0\SarmalSezgiselV2.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\obj\Debug\net8.0\refint\SarmalSezgiselV2.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\obj\Debug\net8.0\SarmalSezgiselV2.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\obj\Debug\net8.0\SarmalSezgiselV2.genruntimeconfig.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalSezgiselV2\obj\Debug\net8.0\ref\SarmalSezgiselV2.dll
