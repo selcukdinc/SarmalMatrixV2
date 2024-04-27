@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SarmalSezgiselV2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+862f46ea1481752d5a7b13abf0aa143731a8b165")]
 [assembly: System.Reflection.AssemblyProductAttribute("SarmalSezgiselV2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SarmalSezgiselV2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
